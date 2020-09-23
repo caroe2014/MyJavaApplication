@@ -1,0 +1,4 @@
+com\aa\opshub\azure\rsa\ClientSecretKeyVaultCredential.class
+com\aa\opshub\azure\rsa\AzureRSAUtils.class
+com\aa\opshub\azure\rsa\MSIKeyVaultCredentials.class
+com\aa\opshub\azure\App.class
